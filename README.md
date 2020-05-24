@@ -83,6 +83,4 @@ Hey, you are good to hear what you have accomplished
 
 `Audio(sound_file, autoplay=True)` 
 
-Provide the string to convert to speech
 
-`tts = gTTS(text )` 
