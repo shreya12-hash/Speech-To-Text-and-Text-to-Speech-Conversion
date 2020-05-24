@@ -28,9 +28,9 @@ Read the audio file and store in a new object
 
 Now we set the newly read audio file as the source to recognise as speech object
 
-`with file_audio as source:
+`with file_audio as source:`
 
-     audio_text = r.record(source)`
+     `audio_text = r.record(source)`
 
 Then save the recognised text in an object called 'text' for further processing
 
