@@ -18,5 +18,6 @@
 
 # Now create a text file for further processing
 `f = open("extracted1.txt", "w")`
+
 `f.write(text)`
 `f.close()`
