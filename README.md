@@ -1,4 +1,6 @@
 # Speech-To-Text-and-Text-to-Speech-Conversion
+
+Speech recognition is the ability of a machine or program to identify words and phrases in spoken language and convert them to a human readable text format. Rudimentary speech recognition software has a limited vocabulary of words and phrases, and it may only identify those speech which are spoken very clearly
 ### An open source contribution by Shreya ###
 ### Sppech to Text ###
 
